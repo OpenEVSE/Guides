@@ -4,6 +4,8 @@ Assembly and setup guides for OpenEVSE charging stations, written in Markdown.
 
 Each guide has its own folder with a `README.md` and an `images/` directory.
 
+**PDF downloads:** every push to `main` rebuilds a PDF of each guide and attaches it to the [latest release](https://github.com/OpenEVSE/Guides/releases/tag/latest). To build them locally, run `scripts/build-pdfs.sh` (needs pandoc and Chrome).
+
 ## Guides
 
 | Guide | Difficulty | Time |
