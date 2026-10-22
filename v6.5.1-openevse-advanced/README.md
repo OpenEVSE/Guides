@@ -210,4 +210,4 @@ Colored bullets match the colored markers drawn on the photos for each step.
 
 ---
 
-<sub>Recreated from the OpenEVSE Dozuki guide ([archived copy](https://web.archive.org/web/20260310130643/https://openevse.dozuki.com/Guide/Current+-+v6.5.1+OpenEVSE+Advanced/26)).</sub>
+
