@@ -66,6 +66,8 @@ Colored bullets match the colored markers drawn on the photos for each step.
 - 🔴 Connect RED and BLACK wires to BOTTOM terminals on one side of the contactor
 - ⚫ Connect the GREY wires to the terminals in the middle of the contactor
 - 🟠 Connect the ORANGE wires to the TOP terminals on the opposite side.
+- 📌 Note Torque Specs on Relay label
+  
 
 ---
 
