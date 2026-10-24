@@ -94,7 +94,6 @@ Colored bullets match the colored markers drawn on the photos for each step.
 </p>
 
 - 🔵 Mount plate in enclosure with SIX coarse threaded 6mm screws. 2 top, 2 middle, 2 bottom 1 each Left and Right
-- 🟢 Install the TWO cable glands.
 - ℹ️ Ensure all 6 wires from the relay stay HIGH in the enclosure and AWAY from all low voltage wires going to the controller, WiFi, display, coils and Ground.
 
 ---
@@ -188,9 +187,6 @@ Colored bullets match the colored markers drawn on the photos for each step.
   <a href="images/step-10-3.jpg"><img src="images/step-10-3.jpg" alt="Step 10 – photo 3" width="32%"></a>
 </p>
 
-- ℹ️ Static sensitive - Lift display by board edges. Do not touch components.
-- ⚫ Remove protective film from display
-- 🔴 Attach display to lid using 4 coarse threaded screws.
 - 🟠 Connect 6 pin cable to display on left side. (connector under the BOOT and RESET buttons.
 - 🟢 Peel the backing on the tape and mount the sensor then connect the temperature sensor to the 4 pin connector on the OpenEVSE controller.
 
