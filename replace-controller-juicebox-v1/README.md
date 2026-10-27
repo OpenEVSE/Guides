@@ -6,6 +6,10 @@
 
 _Written By: Christopher Howell (and one other contributor)_
 
+## Documents
+
+- [QuickStartGuideJuiceRescue](documents/QuickStartGuideJuiceRescue.pdf)
+
 ### Bullet key
 
 Colored bullets match the colored markers drawn on the photos for each step.
