@@ -189,8 +189,9 @@ Colored bullets match the colored markers drawn on the photos for each step.
   <a href="images/step-10-3.jpg"><img src="images/step-10-3.jpg" alt="Step 10 – photo 3" width="32%"></a>
 </p>
 
+- ℹ️ Display now shipped attached to enclosure lid to protect from damage.
 - 🟠 Connect 6 pin cable to display on left side. (connector under the BOOT and RESET buttons.
-- 🟢 Peel the backing on the tape and mount the sensor then connect the temperature sensor to the 4 pin connector on the OpenEVSE controller.
+
 
 ---
 
