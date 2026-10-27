@@ -1,6 +1,6 @@
 # OpenEVSE Guides
 
-Assembly, setup and troubleshooting guides for OpenEVSE charging stations, migrated from the original OpenEVSE guide site (openevse.dozuki.com) to Markdown.
+Assembly, setup and troubleshooting guides for OpenEVSE charging stations, in Markdown.
 
 Each guide has its own folder with a `README.md`, an `images/` directory and, where the guide had attachments, a `documents/` directory.
 
