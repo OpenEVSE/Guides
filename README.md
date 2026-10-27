@@ -19,7 +19,7 @@ Each guide has its own folder with a `README.md`, an `images/` directory and, wh
 | [Discontinued May 2018 - v4 Standard](discontinued-may-2018-v4-standard/README.md) | Moderate | 1 hr – 2 hr |
 | [Discontinued May 2019 - v5 Standard](discontinued-may-2019-v5-standard/README.md) | Moderate | 15 min – 1 hr |
 
-### GoPlug
+### General
 
 | Guide | Difficulty | Time |
 | --- | --- | --- |
