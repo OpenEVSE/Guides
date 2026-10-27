@@ -203,8 +203,8 @@ Colored bullets match the colored markers drawn on the photos for each step.
 - ⚫ Place the enclosure lid on and ensure there are no wires pinched in the lid.
 - 🔴 Start all SIX 6-32 x 1 1/4" screws before tightening.
 - ℹ️ Tighten all SIX so the lid slightly squishes down slightly on the clear seal embedded into the lid. Do not over-tighten.
-- ⚫ Mount station with template. [Mounting Your Charging Station Quick Start Guide](https://openevse.dozuki.com/Guide/Mounting+Your+Charging+Station/22)
-- ⚫ Setup Wifi - [WiFi - Join Network Quick Start Guide](https://openevse.dozuki.com/Guide/WiFi+-+Join+Network/29)
+- ⚫ Mount station with template. [Mounting Your Charging Station Quick Start Guide](../mounting-your-charging-station/README.md)
+- ⚫ Setup Wifi - [WiFi - Join Network Quick Start Guide](../wifi-join-network/README.md)
 
 ---
 
